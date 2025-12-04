@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "フジヤマディスコ",
+  "base_artist": "SILENT SIREN",
+  "createdAt": "2025-12-04T18:13:40.934308Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "フジヤマディスコ",
+      "artist": "SILENT SIREN",
+      "has_synced": true,
+      "path": "select/01_フジヤマディスコ_SILENT_SIREN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "フジヤマディスコ",
+      "artist": "SILENT SIREN",
+      "has_synced": true,
+      "path": "select/02_フジヤマディスコ_SILENT_SIREN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "フジヤマディスコ",
+      "artist": "SILENT SIREN",
+      "has_synced": false,
+      "path": "select/pl_01_フジヤマディスコ_SILENT_SIREN.txt"
+    }
+  ]
+}
